@@ -1,7 +1,6 @@
 ### Wabba Lubba Dub Dub ! Eu sou o Rick San.. Digo , Wallace Henrique (:sweat_smile:) a.k.a (x3ur) :wave: 
 
-![jsgif](https://user-images.githubusercontent.com/98850074/160257612-2ef81555-46ca-4558-b821-c5c82b96f37d.gif)
-![mathgif](https://user-images.githubusercontent.com/98850074/160257663-36e4a4dc-2844-487f-b9b7-46512d00df57.gif)
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-henrique-b67038203/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.protonmail.com/u/0/inbox)
@@ -25,6 +24,8 @@
 
 </div>
 
+![jsgif](https://user-images.githubusercontent.com/98850074/160257612-2ef81555-46ca-4558-b821-c5c82b96f37d.gif)
+![mathgif](https://user-images.githubusercontent.com/98850074/160257663-36e4a4dc-2844-487f-b9b7-46512d00df57.gif)
 ## 📌 Estudando 13 horas por dia todos os dias :books:
 
 ### 📌 Desenvolvedor Web Junior 💻
