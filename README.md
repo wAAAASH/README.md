@@ -1,5 +1,6 @@
 ### Wabba Lubba Dub Dub ! Eu sou o Rick San.. Digo , Wallace Henrique (:sweat_smile:) a.k.a (x3ur) :wave: 
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-henrique-b67038203/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.protonmail.com/u/0/inbox)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
