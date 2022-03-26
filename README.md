@@ -7,6 +7,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamx3ur?tab=repositories)
 
 ![x3ur](https://github-readme-stats.vercel.app/api?username=iamx3ur&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamx3ur&exclude_repo=github-readme-stats,iamx3ur.github.io)](https://github.com/iamx3ur/github-readme-stats)
 
 ## Tecnologias que eu utilizo
 
