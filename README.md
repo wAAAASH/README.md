@@ -1,29 +1,26 @@
-![jsgif](https://user-images.githubusercontent.com/98850074/160257612-2ef81555-46ca-4558-b821-c5c82b96f37d.gif)
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=6024B8&lines=while(true)+learn+%F0%9F%8C%8D%E2%98%A0;Future+QA+And+Software+Tester%F0%9F%91%BE;just%20keepin'%20learn%20...&center=true&width=500&height=50"></a>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-henrique-b67038203/)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.protonmail.com/u/0/inbox)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/w.manji/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamx3ur?tab=repositories)
+<br>
 
-![x3ur](https://github-readme-stats.vercel.app/api?username=iamx3ur&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamx3ur&layout=compact&langs_count=7&theme=dracula"/>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<p /> 
 
-## Tecnologias que eu utilizo
+<img align="center" width="702px" height="401px" src="https://i.pinimg.com/originals/df/e7/c2/dfe7c2fcac143ca2e13bafb02b3eed61.gif" alt="gif">
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="x3ur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="x3ur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="x3ur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="x3ur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="x3ur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="x3ur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+##
+<h3> - 📖 I'm a Self-Taught student </h3>
+  <h3> - 💻 I'm Linux Enthusiast and Web Developer Junior </h3>
+<h3> - 👾 My Hobbies: Programming💻 - Sleep🏴‍☠️ - Study💀 - Play games🎮 </h3>      
+  
+##
 
+  ## <h1> Languages and features that I'm currently learning and have already learned </h1> 
+  
+  <div style="display: inline_block"><br>    
+   <img align="center" alt="wAAAASH-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+   <img align="center" alt="wAAAASH-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   
+   <img align="center" alt="wAAAASH-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="wAAAASH-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="wAAAASH-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-## 📌 Estudando 13 horas por dia todos os dias :books:
-![mathgif](https://user-images.githubusercontent.com/98850074/160257663-36e4a4dc-2844-487f-b9b7-46512d00df57.gif)
-
-### 📌 Desenvolvedor Web Junior 💻
-### 📌 Software e Hardware skills ✔️
